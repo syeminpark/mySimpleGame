@@ -1,0 +1,1128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxFBX\src\FBXSource\GetPosition.cxx">
+      <Filter>addons\ofxFBX\src\FBXSource</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxFBX\src\FBXSource\ofxFBXSrcBone.cpp">
+      <Filter>addons\ofxFBX\src\FBXSource</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxFBX\src\FBXSource\ofxFBXSrcCluster.cpp">
+      <Filter>addons\ofxFBX\src\FBXSource</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxFBX\src\FBXSource\ofxFBXSrcMesh.cpp">
+      <Filter>addons\ofxFBX\src\FBXSource</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxFBX\src\FBXSource\ofxFBXSrcMeshMaterial.cpp">
+      <Filter>addons\ofxFBX\src\FBXSource</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxFBX\src\FBXSource\ofxFBXSrcNode.cpp">
+      <Filter>addons\ofxFBX\src\FBXSource</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxFBX\src\FBXSource\ofxFBXSrcNurbsCurve.cpp">
+      <Filter>addons\ofxFBX\src\FBXSource</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxFBX\src\FBXSource\ofxFBXSrcPose.cpp">
+      <Filter>addons\ofxFBX\src\FBXSource</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxFBX\src\FBXSource\ofxFBXSrcScene.cpp">
+      <Filter>addons\ofxFBX\src\FBXSource</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxFBX\src\FBXSource\ofxFBXSrcSkeleton.cpp">
+      <Filter>addons\ofxFBX\src\FBXSource</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxFBX\src\ofxFBX.cpp">
+      <Filter>addons\ofxFBX\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxFBX\src\ofxFBXAnimation.cpp">
+      <Filter>addons\ofxFBX\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxFBX\src\ofxFBXBone.cpp">
+      <Filter>addons\ofxFBX\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxFBX\src\ofxFBXMesh.cpp">
+      <Filter>addons\ofxFBX\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxFBX\src\ofxFBXMeshMaterial.cpp">
+      <Filter>addons\ofxFBX\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxFBX\src\ofxFBXNode.cpp">
+      <Filter>addons\ofxFBX\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxFBX\src\ofxFBXNurbsCurve.cpp">
+      <Filter>addons\ofxFBX\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxFBX\src\ofxFBXSkeleton.cpp">
+      <Filter>addons\ofxFBX\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\Common\AnimationUtility.cxx">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\Common\Common.cxx">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\Common\GeometryUtility.cxx">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGrabCam\src\ofxGrabCam.cpp">
+      <Filter>addons\ofxGrabCam\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Component.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\GameObjectManager.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ModelImporter.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Player.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Animation.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons">
+      <UniqueIdentifier>{71834F65-F3A9-211E-73B8-DC85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxFBX">
+      <UniqueIdentifier>{259C0477-31FB-790C-DA0E-F42F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxFBX\src">
+      <UniqueIdentifier>{1F5DBBB1-2D8D-AFD0-408E-3BEC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxFBX\src\FBXSource">
+      <UniqueIdentifier>{D3348B8B-BF41-967A-78F4-0332}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxFBX\libs">
+      <UniqueIdentifier>{E183806B-BFB4-0BA8-667B-9CAC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxFBX\libs\libfbxsdk_2019.5">
+      <UniqueIdentifier>{8E7DC1D0-2DCE-AB4F-3FB4-E658}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxFBX\libs\libfbxsdk_2019.5\include">
+      <UniqueIdentifier>{5632900F-42E2-60AE-7BA6-2550}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxFBX\libs\libfbxsdk_2019.5\include\Common">
+      <UniqueIdentifier>{650B3B76-37BB-81FC-B767-5702}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk">
+      <UniqueIdentifier>{694F60BC-15DD-974A-FC37-62BF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core">
+      <UniqueIdentifier>{2D72687F-775B-0A8E-5F31-ADC2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\arch">
+      <UniqueIdentifier>{3F3CB0B7-8F73-5B49-D933-4FE3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base">
+      <UniqueIdentifier>{B3F15345-FAF5-44D2-9D17-0185}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\math">
+      <UniqueIdentifier>{0065A6DF-1D6C-C9D2-9984-F054}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\sync">
+      <UniqueIdentifier>{17B943EB-7E0D-F535-9F9E-C1A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio">
+      <UniqueIdentifier>{AA5D2674-C3C2-B7F9-0EEA-0332}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\collada">
+      <UniqueIdentifier>{C68CFA11-57F9-FD8D-9C41-ECF8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\fbx">
+      <UniqueIdentifier>{D8AE81B9-EB2B-766D-F1E9-BC93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene">
+      <UniqueIdentifier>{12A8FE01-A7C1-3530-E9AB-5478}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\animation">
+      <UniqueIdentifier>{0497B6D6-36C0-58E6-1617-2153}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\constraint">
+      <UniqueIdentifier>{17BBE20E-7E95-D880-2A2F-EECA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry">
+      <UniqueIdentifier>{E21A820A-AA84-8652-7448-CEF8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading">
+      <UniqueIdentifier>{1DD3CAD6-19BA-E7A0-1546-D773}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils">
+      <UniqueIdentifier>{228F5541-03CD-2ADF-51FC-F31D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2">
+      <UniqueIdentifier>{FFC56E55-CA36-26EE-66B3-9DEF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml">
+      <UniqueIdentifier>{D56F5F90-1321-9862-0359-232D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxGrabCam">
+      <UniqueIdentifier>{FDEBFF3D-A5AB-AA4F-3D3C-7284}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxGrabCam\src">
+      <UniqueIdentifier>{46EE530C-80B2-2CD9-FA39-D568}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\src\FBXSource\GetPosition.h">
+      <Filter>addons\ofxFBX\src\FBXSource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\src\FBXSource\ofxFBXSrcBone.h">
+      <Filter>addons\ofxFBX\src\FBXSource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\src\FBXSource\ofxFBXSrcCluster.h">
+      <Filter>addons\ofxFBX\src\FBXSource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\src\FBXSource\ofxFBXSrcMesh.h">
+      <Filter>addons\ofxFBX\src\FBXSource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\src\FBXSource\ofxFBXSrcMeshMaterial.h">
+      <Filter>addons\ofxFBX\src\FBXSource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\src\FBXSource\ofxFBXSrcNode.h">
+      <Filter>addons\ofxFBX\src\FBXSource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\src\FBXSource\ofxFBXSrcNurbsCurve.h">
+      <Filter>addons\ofxFBX\src\FBXSource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\src\FBXSource\ofxFBXSrcPose.h">
+      <Filter>addons\ofxFBX\src\FBXSource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\src\FBXSource\ofxFBXSrcScene.h">
+      <Filter>addons\ofxFBX\src\FBXSource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\src\FBXSource\ofxFBXSrcSkeleton.h">
+      <Filter>addons\ofxFBX\src\FBXSource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\src\FBXSource\ofxFBXUtils.h">
+      <Filter>addons\ofxFBX\src\FBXSource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\src\ofxFBX.h">
+      <Filter>addons\ofxFBX\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\src\ofxFBXAnimation.h">
+      <Filter>addons\ofxFBX\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\src\ofxFBXBone.h">
+      <Filter>addons\ofxFBX\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\src\ofxFBXMesh.h">
+      <Filter>addons\ofxFBX\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\src\ofxFBXMeshMaterial.h">
+      <Filter>addons\ofxFBX\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\src\ofxFBXNode.h">
+      <Filter>addons\ofxFBX\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\src\ofxFBXNurbsCurve.h">
+      <Filter>addons\ofxFBX\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\src\ofxFBXSkeleton.h">
+      <Filter>addons\ofxFBX\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\Common\AnimationUtility.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\Common\Common.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\Common\GeometryUtility.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\arch\fbxalloc.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\arch</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\arch\fbxarch.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\arch</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\arch\fbxdebug.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\arch</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\arch\fbxnew.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\arch</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\arch\fbxstdcompliant.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\arch</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\arch\fbxtypes.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\arch</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base\fbxarray.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base\fbxbitset.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base\fbxcharptrset.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base\fbxcontainerallocators.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base\fbxdynamicarray.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base\fbxfile.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base\fbxfolder.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base\fbxhashmap.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base\fbxintrusivelist.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base\fbxmap.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base\fbxmemorypool.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base\fbxmultimap.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base\fbxpair.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base\fbxredblacktree.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base\fbxset.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base\fbxstatus.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base\fbxstring.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base\fbxstringlist.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base\fbxtime.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base\fbxtimecode.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base\fbxutils.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\fbxclassid.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\fbxconnectionpoint.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\fbxdatatypes.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\fbxemitter.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\fbxevent.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\fbxeventhandler.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\fbxlistener.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\fbxloadingstrategy.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\fbxmanager.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\fbxmodule.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\fbxobject.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\fbxperipheral.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\fbxplugin.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\fbxplugincontainer.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\fbxproperty.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\fbxpropertydef.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\fbxpropertyhandle.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\fbxpropertypage.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\fbxpropertytypes.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\fbxquery.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\fbxqueryevent.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\fbxscopedloadingdirectory.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\fbxscopedloadingfilename.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\fbxstream.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\fbxsymbol.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\fbxsystemunit.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\fbxxref.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\math\fbxaffinematrix.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\math</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\math\fbxdualquaternion.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\math</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\math\fbxmath.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\math</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\math\fbxmatrix.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\math</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\math\fbxquaternion.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\math</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\math\fbxtransforms.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\math</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\math\fbxvector2.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\math</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\math\fbxvector4.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\math</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\sync\fbxatomic.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\sync</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\sync\fbxclock.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\sync</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\sync\fbxsync.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\sync</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\sync\fbxthread.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\core\sync</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fbxsdk_def.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fbxsdk_nsbegin.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fbxsdk_nsend.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fbxsdk_version.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\collada\fbxcolladaanimationelement.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\collada</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\collada\fbxcolladaelement.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\collada</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\collada\fbxcolladaiostream.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\collada</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\collada\fbxcolladanamespace.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\collada</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\collada\fbxcolladatokens.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\collada</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\collada\fbxcolladautils.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\collada</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\collada\fbxreadercollada14.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\collada</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\collada\fbxwritercollada14.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\collada</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\fbx\fbxio.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\fbx</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\fbx\fbxreaderfbx5.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\fbx</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\fbx\fbxreaderfbx6.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\fbx</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\fbx\fbxreaderfbx7.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\fbx</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\fbx\fbxwriterfbx5.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\fbx</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\fbx\fbxwriterfbx6.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\fbx</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\fbx\fbxwriterfbx7.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\fbx</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\fbxbase64coder.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\fbxexporter.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\fbxexternaldocreflistener.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\fbxfiletokens.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\fbxglobalcamerasettings.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\fbxgloballightsettings.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\fbxglobalsettings.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\fbxgobo.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\fbximporter.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\fbxiobase.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\fbxiopluginregistry.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\fbxiosettings.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\fbxiosettingspath.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\fbxprogress.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\fbxreader.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\fbxstatistics.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\fbxstatisticsfbx.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio\fbxwriter.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\fileio</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\animation\fbxanimcurve.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\animation</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\animation\fbxanimcurvebase.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\animation</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\animation\fbxanimcurvefilters.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\animation</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\animation\fbxanimcurvenode.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\animation</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\animation\fbxanimevalclassic.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\animation</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\animation\fbxanimevalstate.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\animation</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\animation\fbxanimevaluator.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\animation</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\animation\fbxanimlayer.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\animation</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\animation\fbxanimstack.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\animation</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\animation\fbxanimutilities.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\animation</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\constraint\fbxcharacter.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\constraint</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\constraint\fbxcharacternodename.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\constraint</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\constraint\fbxcharacterpose.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\constraint</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\constraint\fbxconstraint.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\constraint</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\constraint\fbxconstraintaim.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\constraint</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\constraint\fbxconstraintcustom.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\constraint</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\constraint\fbxconstraintparent.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\constraint</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\constraint\fbxconstraintposition.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\constraint</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\constraint\fbxconstraintrotation.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\constraint</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\constraint\fbxconstraintscale.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\constraint</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\constraint\fbxconstraintsinglechainik.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\constraint</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\constraint\fbxconstraintutils.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\constraint</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\constraint\fbxcontrolset.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\constraint</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\constraint\fbxhik2fbxcharacter.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\constraint</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\fbxaudio.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\fbxaudiolayer.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\fbxaxissystem.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\fbxcollection.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\fbxcollectionexclusive.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\fbxcontainer.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\fbxcontainertemplate.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\fbxdisplaylayer.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\fbxdocument.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\fbxdocumentinfo.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\fbxenvironment.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\fbxgroupname.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\fbxlibrary.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\fbxmediaclip.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\fbxobjectfilter.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\fbxobjectmetadata.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\fbxobjectscontainer.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\fbxpose.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\fbxreference.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\fbxscene.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\fbxselectionnode.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\fbxselectionset.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\fbxtakeinfo.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\fbxthumbnail.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\fbxvideo.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxblendshape.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxblendshapechannel.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxcache.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxcachedeffect.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxcamera.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxcamerastereo.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxcameraswitcher.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxcluster.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxdeformer.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxgenericnode.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxgeometry.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxgeometrybase.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxgeometryweightedmap.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxlayer.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxlayercontainer.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxlight.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxlimitsutilities.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxline.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxlodgroup.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxmarker.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxmesh.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxnode.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxnodeattribute.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxnull.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxnurbs.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxnurbscurve.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxnurbssurface.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxopticalreference.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxpatch.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxproceduralgeometry.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxshape.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxskeleton.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxskin.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxsubdeformer.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxsubdiv.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxtrimnurbssurface.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxvertexcachedeformer.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry\fbxweightedmapping.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading\fbxbindingoperator.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading\fbxbindingsentryview.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading\fbxbindingtable.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading\fbxbindingtablebase.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading\fbxbindingtableentry.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading\fbxconstantentryview.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading\fbxentryview.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading\fbxfiletexture.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading\fbximplementation.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading\fbximplementationfilter.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading\fbximplementationutils.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading\fbxlayeredtexture.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading\fbxlayerentryview.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading\fbxoperatorentryview.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading\fbxproceduraltexture.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading\fbxpropertyentryview.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading\fbxsemanticentryview.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading\fbxshadingconventions.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading\fbxsurfacelambert.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading\fbxsurfacematerial.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading\fbxsurfacephong.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading\fbxtexture.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\scene\shading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils\fbxclonemanager.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils\fbxdeformationsevaluator.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils\fbxembeddedfilesaccumulator.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils\fbxgeometryconverter.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils\fbxmanipulators.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils\fbxmaterialconverter.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils\fbxnamehandler.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils\fbxprocessor.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils\fbxprocessorshaderdependency.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils\fbxprocessorxref.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils\fbxprocessorxrefuserlib.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils\fbxrenamingstrategy.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils\fbxrenamingstrategybase.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils\fbxrenamingstrategyfbx5.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils\fbxrenamingstrategyfbx6.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils\fbxrenamingstrategyfbx7.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils\fbxrenamingstrategyutilities.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils\fbxrootnodeutility.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils\fbxscenecheckutility.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils\fbxusernotification.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\fbxsdk.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\c14n.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\catalog.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\chvalid.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\debugXML.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\dict.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\DOCBparser.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\encoding.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\entities.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\globals.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\hash.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\HTMLparser.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\HTMLtree.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\list.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\nanoftp.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\nanohttp.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\parser.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\parserInternals.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\pattern.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\relaxng.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\SAX.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\SAX2.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\schemasInternals.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\schematron.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\threads.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\tree.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\uri.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\valid.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\xinclude.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\xlink.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\xmlautomata.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\xmlerror.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\xmlexports.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\xmlIO.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\xmlmemory.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\xmlmodule.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\xmlreader.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\xmlregexp.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\xmlsave.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\xmlschemas.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\xmlschemastypes.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\xmlstring.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\xmlunicode.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\xmlversion.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\xmlwin32version.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\xmlwriter.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\xpath.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\xpathInternals.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml\xpointer.h">
+      <Filter>addons\ofxFBX\libs\libfbxsdk_2019.5\include\libxml2\libxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGrabCam\src\ofxGrabCam.h">
+      <Filter>addons\ofxGrabCam\src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Component.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\GameObject.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\GameObjectManager.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ModelImporter.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Player.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\SafeArray.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Animation.h">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="icon.rc" />
+  </ItemGroup>
+</Project>
