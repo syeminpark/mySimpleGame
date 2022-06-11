@@ -3,20 +3,16 @@
 ## ! Work in Progress ! ##
 
 Code for the youtube tutorial series, **"3D Game Development With openFrameworks"**.
-<br>
 
-## YOUTUBE CHANNEL ## 
+
+###  YOUTUBE CHANNEL ###  
 
 This is O2, My Youtube channel. 
 In this channel, we learn how to make 3D Games using C++, javascript. 
 https://www.youtube.com/channel/UCOLvD28bp13KXZJBVobnMVw 
 
-<br>
 
-
-<br>
-
-## ADD-ONS USED ##
+###  ADD-ONS USED ### 
 
 * ofxCvGui
 https://github.com/elliotwoods/ofxCvGui 
@@ -25,14 +21,14 @@ https://github.com/elliotwoods/ofxGrabCam
 * ofxFBX
 https://github.com/NickHardeman/ofxFBX 
 
-<br>
 
-## 3D Models ##
+
+###  3D Models ### 
 Download free fbx models from 'Mixamo'
 https://www.mixamo.com/#/ 
 
 <br>
 
-## Based On ##
+###  Based On ### 
 'Making a Game'(three.js) 
 https://threejs.org/manual/#en/game 
