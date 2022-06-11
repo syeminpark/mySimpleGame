@@ -6,7 +6,13 @@ Code for the tutoirial series, "3D Game Development With openFrameworks".
 
 ## YOUTUBE CHANNEL ## 
 
+This is O2, My Youtube channel. 
+In this channel, we learn how to make 3D Games using C++, javascript. 
 https://www.youtube.com/channel/UCOLvD28bp13KXZJBVobnMVw 
+
+
+
+
 
 ## ADD-ONS USED ##
 
