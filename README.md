@@ -1,4 +1,4 @@
-# mySimpleGame
+# mySimpleGame 🎮
 
 ## ! Work in Progress ! ##
 
@@ -18,11 +18,11 @@ Thanks.
 
 ## ADD-ONS USED ##
 
-ofxCvGui
+*ofxCvGui
 https://github.com/elliotwoods/ofxCvGui 
-ofxGrabCam
+*ofxGrabCam
 https://github.com/elliotwoods/ofxGrabCam
-ofxFBX
+*ofxFBX
 https://github.com/NickHardeman/ofxFBX 
 
 ## 3D Models ##
