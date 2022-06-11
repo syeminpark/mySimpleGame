@@ -27,7 +27,6 @@ https://github.com/NickHardeman/ofxFBX
 Download free fbx models from 'Mixamo'
 https://www.mixamo.com/#/ 
 
-<br>
 
 ###  Based On ### 
 'Making a Game'(three.js) 
