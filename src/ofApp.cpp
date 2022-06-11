@@ -5,33 +5,60 @@ void ofApp::setup(){
 	ofDisableArbTex(); //default OF uses rectangular textures instead of 2D textures. legacy way. 
 
 	ofSetFrameRate(30); //set frame rate 
-	light.setPosition(-300, 300, 300);
+	light.setPosition(-300, 300, -300);
+	light.setAreaLight(100, 100);
 
-	{
+
+	
 		ModelImporter modelImporter;
 		modelImporter.import({ "aj.fbx","kaya.fbx","ty.fbx" ,"vegas.fbx" });
-	
-		auto gameObject = gameObjectManager.createGameObject();
-		auto player = make_shared<Player> (modelImporter.getModel("aj.fbx"),gameObject);
-		gameObject->addComponent(player);
+
+	{
+		auto gameObject_Camera = gameObjectManager.createGameObject("Camera");
+		auto cameraInfo = make_shared<CameraInfo>(gameObject_Camera);
+		gameObject_Camera->addComponent(cameraInfo);
+
 	}
+
+	{
+		auto gameObject_Avatar = gameObjectManager.createGameObject("Avatar");
+		auto player = make_shared<Player> (modelImporter.getModel("aj.fbx"),gameObject_Avatar);
+		gameObject_Avatar->addComponent(player);
+
+		//assign callback
+		player->addEventHandler(inputManager, globalSetting,"front");
+		player->addEventHandler(inputManager, globalSetting,"back");
+		player->addEventHandler(inputManager, globalSetting,"left");
+		player->addEventHandler(inputManager, globalSetting, "right");
+
+	}
+
+	{
+		inputManager.addKey(119, "front");
+		inputManager.addKey(115, "back");
+		inputManager.addKey(97, "left");
+		inputManager.addKey(100, "right");
+	}
+
+
 
 	//camera stuff
 	{
-		camera.setPosition({ 0,200,300 });
+		camera.setPosition({ 0,500,-500 });
 		camera.lookAt(ofVec3f(0, 0, 0));
 		camera.setFarClip(6000);
 		camera.setNearClip(.5f);
 		camera.toggleFixUpDirectionEnabled(); // to make the camera always up
 	}
 
-	ofSetBackgroundColor(100, 100, 100); //rgb
+	ofSetBackgroundColor(255); //rgb
 }
 
 //--------------------------------------------------------------
 void ofApp::update(){
 
 	gameObjectManager.update();
+	inputManager.update();
 }
 
 //--------------------------------------------------------------
@@ -57,12 +84,13 @@ void ofApp::draw() {
 	
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key){
-	
+	inputManager.setKeyFromKeyCode(key, true);
+	inputManager.executeCallbacks();
 }
 
 //--------------------------------------------------------------
 void ofApp::keyReleased(int key){
-
+	inputManager.setKeyFromKeyCode(key, false);
 }
 
 //--------------------------------------------------------------

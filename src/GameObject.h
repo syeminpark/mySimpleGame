@@ -5,8 +5,11 @@
 //entity component system 
 class GameObject {
 private:
+	string name;
 	vector<shared_ptr<Component>> components;
 public:
+
+	GameObject(string name) :name(name) {};
 
 	template <typename T>
 	T getComponent(string name) const {

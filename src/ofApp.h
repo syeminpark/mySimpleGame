@@ -8,7 +8,9 @@
 #include "Player.h"
 #include "GameObjectManager.h"
 
-
+#include "InputManager.h"
+#include "CameraInfo.h"
+#include "GlobalSetting.h"
 
 class ofApp : public ofBaseApp{
 
@@ -17,7 +19,7 @@ class ofApp : public ofBaseApp{
 		void update();
 		void draw();
 
-		void keyPressed(int key);
+		void keyPressed(int key); 
 		void keyReleased(int key);
 		void mouseMoved(int x, int y );
 		void mouseDragged(int x, int y, int button);
@@ -32,6 +34,10 @@ class ofApp : public ofBaseApp{
 		ofxGrabCam camera;
 		ofLight light;
 
+		GlobalSetting globalSetting = { 4 };
 		GameObjectManager gameObjectManager;
+		InputManager inputManager;
 
 };
+
+

@@ -22,8 +22,8 @@ private:
 
 			for(int i = 0; i > this->currentQueue.size(); i++) {
 				auto it = find(this->removeQueue.begin(), this->removeQueue.end(), this->currentQueue[i]);
-				if (it != this->removeQueue.end()) {
-					tempArray.push_back(this->removeQueue[it- this->removeQueue.begin()]);
+				if (it == this->removeQueue.end()) {
+					tempArray.push_back(this->currentQueue[i]);
 				}
 			}
 			this->currentQueue = tempArray;
@@ -50,13 +50,7 @@ public:
 		this->removeQueued();
 
 		for (T element : this->currentQueue) {
-			auto it = find(this->removeQueue.begin(), this->removeQueue.end(), element);
-			if (it != this->removeQueue.end()) {
-				continue;
-			}
 			fn(element);
 		}
-		this->removeQueued();
 	}
-
 };

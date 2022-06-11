@@ -16,6 +16,22 @@
 	}
 
 	//--------------------------------------------------------------
+	void Animation::addEventHandler(InputManager& inputManager, string name) {
+		inputManager.assignCallback(name, [this]() {
+			this->state = "idle";
+			});
+	}
+	//--------------------------------------------------------------
+	void Animation::setState(string newState) {
+		this->state = newState;
+	}
+
+	//--------------------------------------------------------------
+	string Animation::getState() {
+		return this->state;
+	}
+
+	//--------------------------------------------------------------
 	void Animation::update() {
 		this->model->update();
 	}

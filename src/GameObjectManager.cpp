@@ -2,8 +2,8 @@
 #include "GameObjectManager.h"
 
 
-	shared_ptr<GameObject> GameObjectManager::createGameObject() {
-		shared_ptr<GameObject> gameObject = make_shared<GameObject>();
+	shared_ptr<GameObject> GameObjectManager::createGameObject(string name) {
+		shared_ptr<GameObject> gameObject = make_shared<GameObject>(name);
 		this->gameObjects.add(gameObject);
 		return gameObject;
 	}
@@ -18,7 +18,7 @@
 		this->gameObjects.forEach([](shared_ptr<GameObject> element) {element->update();
 		});
 	}
-
+	
 	//--------------------------------------------------------------
 	void GameObjectManager::draw() {
 		this->gameObjects.forEach([](shared_ptr<GameObject> element) {element->draw(); 

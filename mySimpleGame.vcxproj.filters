@@ -94,6 +94,12 @@
     <ClCompile Include="src\Animation.cpp">
       <Filter>src</Filter>
     </ClCompile>
+    <ClCompile Include="src\InputManager.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\CameraInfo.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="src">
@@ -1119,6 +1125,21 @@
       <Filter>src</Filter>
     </ClInclude>
     <ClInclude Include="src\Animation.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\InputManager.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\InputState.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\CameraInfo.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Header.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\GlobalSetting.h">
       <Filter>src</Filter>
     </ClInclude>
   </ItemGroup>

@@ -10,7 +10,7 @@ protected:
 	string name;
 
 public:
-	Component(shared_ptr<GameObject> gameObject, string name="Component");
+	Component(shared_ptr<GameObject> gameObject, string name);
 	virtual void update() = 0;
 	virtual void draw() = 0;
 	string getName() const;
