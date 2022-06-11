@@ -2,7 +2,7 @@
 
 ## ! Work in Progress ! ##
 
-Code for the youtube tutorial series, "3D Game Development With openFrameworks".
+Code for the youtube tutorial series, **"3D Game Development With openFrameworks"**.
 
 ## YOUTUBE CHANNEL ## 
 
