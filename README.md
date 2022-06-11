@@ -1,6 +1,6 @@
 # mySimpleGame
 
-! Work in Progress !
+## ! Work in Progress ! ##
 
 Code for the tutoirial series, "3D Game Development With openFrameworks".
 
