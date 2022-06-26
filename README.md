@@ -5,6 +5,10 @@
 Code for the youtube tutorial series, **"3D Game Development With openFrameworks"**.
 
 
+![alt text](https://github.com/syeminpark/mySimpleGame/blob/main/readmeImage.png?raw=true)
+
+
+
 ###  YOUTUBE CHANNEL ###  
 
 This is O2, My Youtube channel.  
